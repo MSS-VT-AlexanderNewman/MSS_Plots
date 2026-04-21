@@ -4,8 +4,17 @@ List of plots:
 AERAP_Sankey_plot,
 NEI_Plots,
 ZEV_plots,
+and Budget plot for Leigh's program.
 
 Embed code: 
+<iframe
+  src="https://mss-vt-alexandernewman.github.io/MSS_Plots/budget_plot.html"
+  width="100%"
+  height="600px"
+  frameborder="0">
+
+</iframe>
+
 
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/NEI_plots.html"
