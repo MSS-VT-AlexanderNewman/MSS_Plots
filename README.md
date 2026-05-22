@@ -8,7 +8,7 @@ and Budget plot for Leigh's program.
 
 Embed code: 
 <iframe
-  src="https://mss-vt-alexandernewman.github.io/MSS_Plots/budget_plot.html"
+  src="https://mss-vt-alexandernewman.github.io/MSS_Plots/bBudget_plot.html"
   width="100%"
   height="600px"
   frameborder="0">
