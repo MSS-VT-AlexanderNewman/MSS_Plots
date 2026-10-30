@@ -1,10 +1,17 @@
 # MSS_Plots
 Repository for all plots to be hosted on Vermont's Mobile Sources web pages
+<br><br>
+
 List of plots:
+<br>
 AERAP_Sankey_plot,
+<br>
 NEI_Plots,
+<br>
 ZEV_plots,
+<br>
 and Budget plot for Leigh's program.
+<br>
 
 Path VW Budget:  C:\Users\Alexander.Newman\Documents\Budget_plot_for_LM
 <br>
@@ -17,6 +24,8 @@ AERAP Sankey Plots:  Y:\AP_Mobile\Programs\IM\VT IM Program\VT Emissions Repair 
 
 Embed code: 
 <br>
+VW budget plot
+<br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/bBudget_plot.html"
   width="100%"
@@ -25,7 +34,8 @@ Embed code:
 
 </iframe>
 <br>
-
+NEI plots
+<br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/NEI_plots.html"
   width="100%"
@@ -34,6 +44,8 @@ Embed code:
 
 </iframe>
 <br>
+ZEV plots
+<br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/ZEV_plots.html"
   width="100%"
@@ -41,6 +53,8 @@ Embed code:
   frameborder="0">
 
 </iframe>
+<br>
+AERAP sankey plots
 <br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/AERAP_sankey_plot.html"
