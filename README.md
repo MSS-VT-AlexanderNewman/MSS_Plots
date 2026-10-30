@@ -6,8 +6,10 @@ NEI_Plots,
 ZEV_plots,
 and Budget plot for Leigh's program.
 
-Path:  C:\Users\Alexander.Newman\Documents\Budget_plot_for_LM
-
+Path VW Budget:  C:\Users\Alexander.Newman\Documents\Budget_plot_for_LM
+Path NEI plots:  Y:\AP_Mobile\Databases\NEI\NEI Mobile Diesel Emissions 2020\New charts for website\2023 Charts
+ZEV plots path:  Y:\AP_Mobile\Databases\Reg_Data\DMV Data-checks and Quarterly Trends\R charts
+AERAP Sankey Plots:  Y:\AP_Mobile\Programs\IM\VT IM Program\VT Emissions Repair Program\2023 VERAP pilot\AERAP Pilot Applications
 Embed code: 
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/bBudget_plot.html"
