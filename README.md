@@ -35,7 +35,7 @@ VW budget plot
 </iframe>
 <br>
 NEI plots
-<br>
+<br><br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/NEI_plots.html"
   width="100%"
@@ -45,7 +45,7 @@ NEI plots
 </iframe>
 <br>
 ZEV plots
-<br>
+<br><br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/ZEV_plots.html"
   width="100%"
@@ -55,7 +55,7 @@ ZEV plots
 </iframe>
 <br>
 AERAP sankey plots
-<br>
+<br><br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/AERAP_sankey_plot.html"
   width="100%"
