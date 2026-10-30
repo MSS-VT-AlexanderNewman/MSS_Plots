@@ -14,7 +14,9 @@ ZEV plots path:  Y:\AP_Mobile\Databases\Reg_Data\DMV Data-checks and Quarterly T
 <br>
 AERAP Sankey Plots:  Y:\AP_Mobile\Programs\IM\VT IM Program\VT Emissions Repair Program\2023 VERAP pilot\AERAP Pilot Applications
 <br>
+
 Embed code: 
+<br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/bBudget_plot.html"
   width="100%"
@@ -22,7 +24,7 @@ Embed code:
   frameborder="0">
 
 </iframe>
-
+<br>
 
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/NEI_plots.html"
@@ -31,7 +33,7 @@ Embed code:
   frameborder="0">
 
 </iframe>
-
+<br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/ZEV_plots.html"
   width="100%"
@@ -39,7 +41,7 @@ Embed code:
   frameborder="0">
 
 </iframe>
-
+<br>
 <iframe
   src="https://mss-vt-alexandernewman.github.io/MSS_Plots/AERAP_sankey_plot.html"
   width="100%"
