@@ -27,7 +27,7 @@ Embed code:
 VW budget plot
 <br>
 <iframe
-  src="https://mss-vt-alexandernewman.github.io/MSS_Plots/bBudget_plot.html"
+  src="https://mss-vt-alexandernewman.github.io/MSS_Plots/Budget_plot.html"
   width="100%"
   height="600px"
   frameborder="0">
